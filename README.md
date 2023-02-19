@@ -6,9 +6,9 @@ AIGC main model introduction, including Text, Picture, Music, Video
 - [Video](#video)
 - [Music](#music)
 ## Text
-***ChaptGPT***
+  ***ChaptGPT***
 
-***GPT3 Playground***
+  ***GPT3 Playground***
 
 ***ChatSonic***
 
