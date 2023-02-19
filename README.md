@@ -2,9 +2,16 @@
 AIGC main model introduction, including Text, Picture, Music, Video
 ## Table of Contents
 - [Text](#text)
-  - [Contents](#contents)
-  - [Introduction](#introduction)
-  - [Papers](#papers)
+  - [ChaptGPT](#ChaptGPT)
+  - [GPT3 Playground](#introduction)
+  - [ChatSonic](#papers)
+  - [Easy-Peasy.AI](#contents)
+  - [Perplexity AI](#introduction)
+  - [Notion AI](#papers)
+  - [Dream Interpreter](#contents)
+  - [Copy.ai](#introduction)
+  - [Compose](#papers)
+  - [文心一言](#contents)
 - [Picture](#picture)
   - [Prompt Designing](#prompt-designing)
   - [Prompt Analysis](#prompt-analysis)
@@ -20,16 +27,26 @@ AIGC main model introduction, including Text, Picture, Music, Video
 
 ## Text
 ***ChaptGPT***
+
 ***GPT3 Playground***
+
 ***ChatSonic***
+
 ***Easy-Peasy.AI***
+
 ***Perplexity AI***
+
 ***Notion AI***
+
 ***Dream Interpreter***
+
 ***Copy.ai***
+
 ***Compose***
+
 ***文心一言***
-******
+
+
 
 
 
