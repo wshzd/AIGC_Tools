@@ -2,7 +2,7 @@
 AIGC main model introduction, including Text, Picture, Music, Video
 ## Table of Contents
 - [Text](#text)
-  - [ChaptGPT](#ChaptGPT)
+  - [ChaptGPT](#chaptgpt)
   - [GPT3 Playground](#introduction)
   - [ChatSonic](#papers)
   - [Easy-Peasy.AI](#contents)
