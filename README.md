@@ -26,54 +26,67 @@ AIGC main model introduction, including Text, Picture, Music, Video
 
 ***文心一言***
 
-
-
-
-
 ## Picture
-Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer. JMLR.  
+***文心一格***
 
+***盗梦师***
 
+***StableDiffusion***
 
+***Mid journey***
 
+***DALL.E 2***
 
+***AI Picasso***
+
+***6pen***
+
+***nightcafe***
+
+***runwayml***
+
+***artbreeder***
 
 ## Video
-Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer. JMLR.  
+***剪映***
 
-Colin Raffel, Noam Shazeer, Adam Roberts, Katherine Lee, Sharan Narang, Michael Matena, Yanqi Zhou, Wei Li, Peter J. Liu. [pdf], [project], (T5). 2019.10.
+***一帧秒创***
 
-Parameter-Efficient Transfer Learning for NLP. ICML 2019.  
+***Fliki***
 
-Neil Houlsby, Andrei Giurgiu, Stanislaw Jastrzebski, Bruna Morrone, Quentin de Laroussilhe, Andrea Gesmundo, Mona Attariyan, Sylvain Gelly. [pdf], [project], 2019.6
+***Synthesia***
 
-How Can We Know What Language Models Know? TACL 2020.  
+***Shuffil***
 
-Zhengbao Jiang, Frank F. Xu, Jun Araki, Graham Neubig. [pdf], [project], 2019.11
+***Pollinations***
 
-Exploiting Cloze Questions for Few Shot Text Classification and Natural Language Inference. EACL 2021.  
+***Creative Reality Studio (D-ID)***
 
-Timo Schick, Hinrich Schütze. [pdf], [project] (PET), 2020.1
+***Lumen5***
 
+***Xpression Camera***
 
+***Genmo AI***
 
 ## Music
+***Mubert***
 
-Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer. JMLR.  
+***soundraw***
 
-Colin Raffel, Noam Shazeer, Adam Roberts, Katherine Lee, Sharan Narang, Michael Matena, Yanqi Zhou, Wei Li, Peter J. Liu. [pdf], [project], (T5). 2019.10.
+***Riffusion***
 
-Parameter-Efficient Transfer Learning for NLP. ICML 2019.  
+***Brain.fm***
 
-Neil Houlsby, Andrei Giurgiu, Stanislaw Jastrzebski, Bruna Morrone, Quentin de Laroussilhe, Andrea Gesmundo, Mona Attariyan, Sylvain Gelly. [pdf], [project], 2019.6
+***Boomy***
 
-How Can We Know What Language Models Know? TACL 2020.  
+***Harmonai***
 
-Zhengbao Jiang, Frank F. Xu, Jun Araki, Graham Neubig. [pdf], [project], 2019.11
+***CassetteAI***
 
-Exploiting Cloze Questions for Few Shot Text Classification and Natural Language Inference. EACL 2021.  
+***Natural Language Playlist***
 
-Timo Schick, Hinrich Schütze. [pdf], [project] (PET), 2020.1
+***Songtell***
 
+***Endel***
 
 
