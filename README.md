@@ -5,19 +5,31 @@ AIGC main model introduction, including Text, Picture, Music, Video
   - [Contents](#contents)
   - [Introduction](#introduction)
   - [Papers](#papers)
-- [Picture](#survey)
+- [Picture](#picture)
   - [Prompt Designing](#prompt-designing)
   - [Prompt Analysis](#prompt-analysis)
   - [Prompt Application](#prompt-application)
-- [Video](#other-contributors)
+- [Video](#video)
   - [Prompt Designing](#prompt-designing)
   - [Prompt Analysis](#prompt-analysis)
   - [Prompt Application](#prompt-application)
-- [Music](#survey)
+- [Music](#music)
   - [Prompt Designing](#prompt-designing)
   - [Prompt Analysis](#prompt-analysis)
   - [Prompt Application](#prompt-application)
 
 ## Text
+
+
+
+## Picture
+
+
+
+## Video
+
+
+## Music
+
 
 
