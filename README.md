@@ -7,87 +7,87 @@ AIGC main model introduction, including  Music, Picture, Text, Video
 - [Video](#video)
 
 ## Music
-- **Mubert**
-
-- **soundraw**
-
-- **Riffusion**
-
 - **Brain.fm**
 
 - **Boomy**
 
-- **Harmonai**
-
 - **CassetteAI**
-
-- **Natural Language Playlist**
-
-- **Songtell**
 
 - **Endel**
 
+- **Harmonai**
+
+- **Mubert**
+
+- **Natural Language Playlist**
+
+- **Riffusion**
+
+- **soundraw**
+
+- **Songtell**
+
 ## Picture
-- **文心一格**
+- **6pen**
 
 - **盗梦师**
 
-- **StableDiffusion**
-
-- **Mid journey**
-
-- **DALL.E 2**
+- **文心一格**
 
 - **AI Picasso**
 
-- **6pen**
+- **artbreeder**
+
+- **DALL.E 2**
+
+- **Mid journey**
 
 - **nightcafe**
 
 - **runwayml**
 
-- **artbreeder**
+- **StableDiffusion**
 
 ## Text
+- **文心一言**
+
 - **ChaptGPT**
 
-- **GPT3 Playground**
-
 - **ChatSonic**
-
-- **Easy-Peasy.AI**
-
-- **Perplexity AI**
-
-- **Notion AI**
-
-- **Dream Interpreter**
 
 - **Copy.ai**
 
 - **Compose**
 
-- **文心一言**
+- **Dream Interpreter**
+
+- **Easy-Peasy.AI**
+
+- **GPT3 Playground**
+
+- **Notion AI**
+
+- **Perplexity AI**
 
 ## Video
 - **剪映**
 
 - **一帧秒创**
 
+- **Creative Reality Studio (D-ID)**
+
 - **Fliki**
+
+- **Genmo AI**
+
+- **Lumen5**
+
+- **Pollinations**
 
 - **Synthesia**
 
 - **Shuffil**
 
-- **Pollinations**
-
-- **Creative Reality Studio (D-ID)**
-
-- **Lumen5**
-
 - **Xpression Camera**
-
-- **Genmo AI**
 
 
