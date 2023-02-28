@@ -7,6 +7,14 @@ AIGC main model introduction, including  Music, Picture, Text, Video
 - [Video](#video)
 
 ## Music
+- **Audioshake**
+
+- **A.V.Mapping**
+
+- **AIVA**
+
+- **Beatoven.ai**
+
 - **Brain.fm**
 
 - **Boomy**
@@ -15,17 +23,29 @@ AIGC main model introduction, including  Music, Picture, Text, Video
 
 - **Endel**
 
+- **ecrettmusic**
+
 - **Harmonai**
 
 - **Mubert**
 
 - **Natural Language Playlist**
 
+- **Open Voice OS**
+
+- **Pollinations**
+
 - **Riffusion**
+
+- **Songtell**
+
+- **Soundful**
+
+- **Synthesizer V**
 
 - **soundraw**
 
-- **Songtell**
+- **voicemod**
 
 ## Picture
 - **6pen**
