@@ -7,87 +7,87 @@ AIGC main model introduction, including  Music, Picture, Text, Video
 - [Video](#video)
 
 ## Music
-**Mubert**
+- **Mubert**
 
-**soundraw**
+- **soundraw**
 
-**Riffusion**
+- **Riffusion**
 
-**Brain.fm**
+- **Brain.fm**
 
-**Boomy**
+- **Boomy**
 
-**Harmonai**
+- **Harmonai**
 
-**CassetteAI**
+- **CassetteAI**
 
-**Natural Language Playlist**
+- **Natural Language Playlist**
 
-**Songtell**
+- **Songtell**
 
-**Endel**
+- **Endel**
 
 ## Picture
-**文心一格**
+- **文心一格**
 
-**盗梦师**
+- **盗梦师**
 
-**StableDiffusion**
+- **StableDiffusion**
 
-**Mid journey**
+- **Mid journey**
 
-**DALL.E 2**
+- **DALL.E 2**
 
-**AI Picasso**
+- **AI Picasso**
 
-**6pen**
+- **6pen**
 
-**nightcafe**
+- **nightcafe**
 
-**runwayml**
+- **runwayml**
 
-**artbreeder**
+- **artbreeder**
 
 ## Text
-  **ChaptGPT**
+- **ChaptGPT**
 
-  **GPT3 Playground**
+- **GPT3 Playground**
 
-**ChatSonic**
+- **ChatSonic**
 
-**Easy-Peasy.AI**
+- **Easy-Peasy.AI**
 
-**Perplexity AI**
+- **Perplexity AI**
 
-**Notion AI**
+- **Notion AI**
 
-**Dream Interpreter**
+- **Dream Interpreter**
 
-**Copy.ai**
+- **Copy.ai**
 
-**Compose**
+- **Compose**
 
-**文心一言**
+- **文心一言**
 
 ## Video
-**剪映**
+- **剪映**
 
-**一帧秒创**
+- **一帧秒创**
 
-**Fliki**
+- **Fliki**
 
-**Synthesia**
+- **Synthesia**
 
-**Shuffil**
+- **Shuffil**
 
-**Pollinations**
+- **Pollinations**
 
-**Creative Reality Studio (D-ID)**
+- **Creative Reality Studio (D-ID)**
 
-**Lumen5**
+- **Lumen5**
 
-**Xpression Camera**
+- **Xpression Camera**
 
-**Genmo AI**
+- **Genmo AI**
 
 
