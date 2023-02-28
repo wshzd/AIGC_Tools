@@ -1,30 +1,31 @@
 # AIGC_Tools
-AIGC main model introduction, including Text, Picture, Music, Video
+AIGC main model introduction, including  Music, Picture, Text, Video
 ## Table of Contents
-- [Text](#text)
-- [Picture](#picture)
-- [Video](#video)
 - [Music](#music)
-## Text
-  **ChaptGPT**
+- [Picture](#picture)
+- [Text](#text)
+- [Video](#video)
 
-  **GPT3 Playground**
+## Music
+**Mubert**
 
-**ChatSonic**
+**soundraw**
 
-**Easy-Peasy.AI**
+**Riffusion**
 
-**Perplexity AI**
+**Brain.fm**
 
-**Notion AI**
+**Boomy**
 
-**Dream Interpreter**
+**Harmonai**
 
-**Copy.ai**
+**CassetteAI**
 
-**Compose**
+**Natural Language Playlist**
 
-**文心一言**
+**Songtell**
+
+**Endel**
 
 ## Picture
 **文心一格**
@@ -47,6 +48,27 @@ AIGC main model introduction, including Text, Picture, Music, Video
 
 **artbreeder**
 
+## Text
+  **ChaptGPT**
+
+  **GPT3 Playground**
+
+**ChatSonic**
+
+**Easy-Peasy.AI**
+
+**Perplexity AI**
+
+**Notion AI**
+
+**Dream Interpreter**
+
+**Copy.ai**
+
+**Compose**
+
+**文心一言**
+
 ## Video
 **剪映**
 
@@ -67,26 +89,5 @@ AIGC main model introduction, including Text, Picture, Music, Video
 **Xpression Camera**
 
 **Genmo AI**
-
-## Music
-**Mubert**
-
-**soundraw**
-
-**Riffusion**
-
-**Brain.fm**
-
-**Boomy**
-
-**Harmonai**
-
-**CassetteAI**
-
-**Natural Language Playlist**
-
-**Songtell**
-
-**Endel**
 
 
