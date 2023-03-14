@@ -70,23 +70,16 @@ AIGC main model introduction, including  Music, Picture, Text, Video
 
 ## Text
 - **文心一言**
-
-- **ChaptGPT**
-
+- **ChatGPT**
+- **ChatPDF**
 - **ChatSonic**
-
 - **Copy.ai**
-
 - **Compose**
-
 - **Dream Interpreter**
-
 - **Easy-Peasy.AI**
-
+- **humata.ai**
 - **GPT3 Playground**
-
 - **Notion AI**
-
 - **Perplexity AI**
 
 ## Video
