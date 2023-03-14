@@ -7,101 +7,101 @@ AIGC main model introduction, including  Music, Picture, Text, Video
 - [Video](#video)
 
 ## Music
-- **Audioshake**
+- Audioshake
 
-- **A.V.Mapping**
+- A.V.Mapping
 
-- **AIVA**
+- AIVA
 
-- **Beatoven.ai**
+- Beatoven.ai
 
-- **Brain.fm**
+- Brain.fm
 
-- **Boomy**
+- Boomy
 
-- **CassetteAI**
+- CassetteAI
 
-- **Endel**
+- Endel
 
-- **ecrettmusic**
+- ecrettmusic
 
-- **Harmonai**
+- Harmonai
 
-- **Mubert**
+- Mubert
 
-- **Natural Language Playlist**
+- Natural Language Playlist
 
-- **Open Voice OS**
+- Open Voice OS
 
-- **Pollinations**
+- Pollinations
 
-- **Riffusion**
+- Riffusion
 
-- **Songtell**
+- Songtell
 
-- **Soundful**
+- Soundful
 
-- **Synthesizer V**
+- Synthesizer V
 
-- **soundraw**
+- soundraw
 
-- **voicemod**
+- voicemod
 
 ## Picture
-- **6pen**
+- 6pen
 
-- **盗梦师**
+- 盗梦师
 
-- **文心一格**
+- 文心一格
 
-- **AI Picasso**
+- AI Picasso
 
-- **artbreeder**
+- artbreeder
 
-- **DALL.E 2**
+- DALL.E 2
 
-- **Mid journey**
+- Mid journey
 
-- **nightcafe**
+- nightcafe
 
-- **runwayml**
+- runwayml
 
-- **StableDiffusion**
+- StableDiffusion
 
 ## Text
-- **文心一言**
-- **ChatGPT**
-- **ChatPDF**
-- **ChatSonic**
-- **Copy.ai**
-- **Compose**
-- **Dream Interpreter**
-- **Easy-Peasy.AI**
-- **GPT3 Playground**
-- **humata.ai**
-- **llama.cpp**
-- **Notion AI**
-- **Perplexity AI**
+- 文心一言
+- ChatGPT
+- ChatPDF
+- ChatSonic
+- Copy.ai
+- Compose
+- Dream Interpreter
+- Easy-Peasy.AI
+- GPT3 Playground
+- humata.ai
+- [llama.cpp](https://github.com/wshzd/AIGC_Tools/blob/main/docs/humata.ai_zh.md)
+- Notion AI
+- Perplexity AI
 
 ## Video
-- **剪映**
+- 剪映
 
-- **一帧秒创**
+- 一帧秒创
 
-- **Creative Reality Studio (D-ID)**
+- Creative Reality Studio (D-ID)
 
-- **Fliki**
+- Fliki
 
-- **Genmo AI**
+- Genmo AI
 
-- **Lumen5**
+- Lumen5
 
-- **Pollinations**
+- Pollinations
 
-- **Synthesia**
+- Synthesia
 
-- **Shuffil**
+- Shuffil
 
-- **Xpression Camera**
+- Xpression Camera
 
 
