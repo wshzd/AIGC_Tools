@@ -1,6 +1,6 @@
 # ChatLLaMA_zh
 
-上篇文章《[Meta开放小模型LLaMA，性能超过GPT-3](http://mp.weixin.qq.com/s?__biz=Mzg3NDIyMzI0Mw==&mid=2247485822&idx=1&sn=b365d93a0a08769aef77f34069da1422&chksm=ced54a9af9a2c38cd5779284b5e9ae573846153e7dc00961dc163664a657d6a3fa5c8c14c7d2&scene=21#wechat_redirect)》分享了LLaMA论文中在bechmark上的评估效果，例如，LLaMA-13B 在大多数基准上都优于 GPT-3(175B)，而模型大小却小了 10 倍以上，LLaMA-65B 与最好的模型 Chinchilla70B 和 PaLM-540B 性能相当。参数量的减少对于普通研究者和商业机构来说都是好事，LLaMA 在其他任务上表现如何？来自一位名叫 @Enryu 的 Medium 作者在“解释笑话”、“零样本分类”和“代码生成”三个任务与ChatGPT进行了对比评估，相关博客文章为《Mini-post: first look at LLaMA》。
+上篇文章《[Meta开放小模型LLaMA，性能超过GPT-3](ChatLLaMA_zh.md)》分享了LLaMA论文中在bechmark上的评估效果，例如，LLaMA-13B 在大多数基准上都优于 GPT-3(175B)，而模型大小却小了 10 倍以上，LLaMA-65B 与最好的模型 Chinchilla70B 和 PaLM-540B 性能相当。参数量的减少对于普通研究者和商业机构来说都是好事，LLaMA 在其他任务上表现如何？来自一位名叫 @Enryu 的 Medium 作者在“解释笑话”、“零样本分类”和“代码生成”三个任务与ChatGPT进行了对比评估，相关博客文章为《Mini-post: first look at LLaMA》。
 
 **解释笑话**
 
