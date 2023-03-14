@@ -10,4 +10,4 @@
 
 **Step2 基于PDf源文件进行提问**
 基于说明书的简单提问demo如下图所示：
-![humata](https://github.com/wshzd/AIGC_Tools/blob/main/images/humata.ai.jpg)
+![humata](../images/humata.ai.jpg)
