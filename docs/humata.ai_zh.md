@@ -2,6 +2,8 @@
 
 **介绍**：是一款基于ChatGPT开发的上传任意PDF，并且基于PDF进行问答系统搭建的软件。
 
+**Note**：处理的PDF上限是60页。
+
 **体验地址**：https://app.humata.ai/
 
 ![humata](../images/humata.ai.png)

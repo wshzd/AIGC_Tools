@@ -70,6 +70,7 @@ AIGC main model introduction, including  Music, Picture, Text, Video
 
 ## Text
 - 文心一言
+- [ChatExcel](https://github.com/wshzd/AIGC_Tools/blob/main/docs/ChatExcel_zh.md)
 - ChatGPT
 - [ChatLLaMA](https://github.com/wshzd/AIGC_Tools/blob/main/docs/ChatLLaMA_zh.md)
 - [ChatPDF](https://github.com/wshzd/AIGC_Tools/blob/main/docs/ChatPDF_zh.md)
@@ -78,6 +79,7 @@ AIGC main model introduction, including  Music, Picture, Text, Video
 - Compose
 - Dream Interpreter
 - Easy-Peasy.AI
+- [harpa.ai](https://github.com/wshzd/AIGC_Tools/blob/main/docs/harpa.ai_zh.md)
 - GPT3 Playground
 - humata.ai
 - [LLaMA](https://github.com/wshzd/AIGC_Tools/blob/main/docs/LLaMA_zh.md)
