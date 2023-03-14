@@ -71,7 +71,7 @@ AIGC main model introduction, including  Music, Picture, Text, Video
 ## Text
 - 文心一言
 - ChatGPT
-- ChatPDF
+- [ChatPDF](https://github.com/wshzd/AIGC_Tools/blob/main/docs/ChatPDF_zh.md)
 - ChatSonic
 - Copy.ai
 - Compose
