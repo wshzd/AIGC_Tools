@@ -77,8 +77,9 @@ AIGC main model introduction, including  Music, Picture, Text, Video
 - **Compose**
 - **Dream Interpreter**
 - **Easy-Peasy.AI**
-- **humata.ai**
 - **GPT3 Playground**
+- **humata.ai**
+- **llama.cpp**
 - **Notion AI**
 - **Perplexity AI**
 
