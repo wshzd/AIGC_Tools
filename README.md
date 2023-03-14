@@ -71,6 +71,7 @@ AIGC main model introduction, including  Music, Picture, Text, Video
 ## Text
 - 文心一言
 - ChatGPT
+- [ChatLLaMA](https://github.com/wshzd/AIGC_Tools/blob/main/docs/ChatLLaMA_zh.md)
 - [ChatPDF](https://github.com/wshzd/AIGC_Tools/blob/main/docs/ChatPDF_zh.md)
 - ChatSonic
 - Copy.ai
@@ -79,6 +80,7 @@ AIGC main model introduction, including  Music, Picture, Text, Video
 - Easy-Peasy.AI
 - GPT3 Playground
 - humata.ai
+- [LLaMA](https://github.com/wshzd/AIGC_Tools/blob/main/docs/LLaMA_zh.md)
 - [llama.cpp](https://github.com/wshzd/AIGC_Tools/blob/main/docs/humata.ai_zh.md)
 - Notion AI
 - Perplexity AI
