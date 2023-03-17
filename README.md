@@ -84,7 +84,7 @@ AIGC main model introduction, including  Music, Picture, Text, Video
 - humata.ai
 - [LLaMA](https://github.com/wshzd/AIGC_Tools/blob/main/docs/LLaMA_zh.md)
 - [llama.cpp](https://github.com/wshzd/AIGC_Tools/blob/main/docs/humata.ai_zh.md)
-- Notion AI
+- [Notion AI](https://copyai.cn/)
 - Perplexity AI
 
 ## Video
