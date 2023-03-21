@@ -1,5 +1,5 @@
 # AIGC_Tools
-AIGC main model introduction, including  Music, Picture, Text, Video
+AIGC main model introduction, including  Music, Picture, Text, Video and Fusion, that is, they transform each other.
 ## Table of Contents
 - [Music](#music)
 - [Picture](#picture)
@@ -49,31 +49,26 @@ AIGC main model introduction, including  Music, Picture, Text, Video
 
 ## Picture
 - 6pen
-
 - 盗梦师
-
 - 文心一格
-
 - AI Picasso
-
 - artbreeder
-
 - DALL.E 2
-
 - Mid journey
-
 - nightcafe
-
 - runwayml
-
 - StableDiffusion
+- [Web Stable Diffusion](https://github.com/wshzd/AIGC_Tools/blob/main/docs/Web Stable Diffusion_zh.md)
 
 ## Text
 - 文心一言
+- [AIPRM for ChatGPT](https://github.com/wshzd/AIGC_Tools/blob/main/docs/AIPRM for ChatGPT_zh.md)
+- [bob-plugin-openai-translator ](https://github.com/wshzd/AIGC_Tools/blob/main/docs/bob-plugin-openai-translator_zh.md)
 - [ChatExcel](https://github.com/wshzd/AIGC_Tools/blob/main/docs/ChatExcel_zh.md)
 - ChatGPT
 - [ChatLLaMA](https://github.com/wshzd/AIGC_Tools/blob/main/docs/ChatLLaMA_zh.md)
 - [ChatPDF](https://github.com/wshzd/AIGC_Tools/blob/main/docs/ChatPDF_zh.md)
+- [ChatGPT-Shortcut](https://github.com/wshzd/AIGC_Tools/blob/main/docs/ChatGPT-Shortcut_zh.md)
 - ChatSonic
 - Copy.ai
 - Compose
@@ -108,4 +103,7 @@ AIGC main model introduction, including  Music, Picture, Text, Video
 
 - Xpression Camera
 
+## Fusion
+
+- [UniDiffuser](https://github.com/wshzd/AIGC_Tools/blob/main/docs/清华Multi-Modal DiffusionUniDiffuser_zh.md)
 
