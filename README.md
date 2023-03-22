@@ -54,6 +54,7 @@ AIGC main model introduction, including  Music, Picture, Text, Video and Fusion,
 - AI Picasso
 - artbreeder
 - DALL.E 2
+- [Firefly](https://github.com/wshzd/AIGC_Tools/blob/main/docs/Firefly_zh.md)
 - Mid journey
 - nightcafe
 - runwayml
