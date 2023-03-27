@@ -106,5 +106,5 @@ AIGC main model introduction, including  Music, Picture, Text, Video and Fusion,
 
 ## Fusion
 
-- [UniDiffuser](https://github.com/wshzd/AIGC_Tools/blob/main/docs/清华Multi-Modal DiffusionUniDiffuser_zh.md)
+- [UniDiffuser](https://github.com/wshzd/AIGC_Tools/blob/main/docs/清华Multi-Modal_DiffusionUniDiffuser_zh.md)
 
