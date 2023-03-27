@@ -5,6 +5,7 @@ AIGC main model introduction, including  Music, Picture, Text, Video and Fusion,
 - [Picture](#picture)
 - [Text](#text)
 - [Video](#video)
+- [Fusion](#fusion)
 
 ## Music
 - Audioshake
