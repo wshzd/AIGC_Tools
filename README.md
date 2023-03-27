@@ -60,11 +60,11 @@ AIGC main model introduction, including  Music, Picture, Text, Video and Fusion,
 - nightcafe
 - runwayml
 - StableDiffusion
-- [Web Stable Diffusion](https://github.com/wshzd/AIGC_Tools/blob/main/docs/Web Stable Diffusion_zh.md)
+- [Web Stable Diffusion](https://github.com/wshzd/AIGC_Tools/blob/main/docs/Web_Stable_Diffusion_zh.md)
 
 ## Text
 - 文心一言
-- [AIPRM for ChatGPT](https://github.com/wshzd/AIGC_Tools/blob/main/docs/AIPRM for ChatGPT_zh.md)
+- [AIPRM for ChatGPT](https://github.com/wshzd/AIGC_Tools/blob/main/docs/AIPRM_for_ChatGPT_zh.md)
 - [bob-plugin-openai-translator ](https://github.com/wshzd/AIGC_Tools/blob/main/docs/bob-plugin-openai-translator_zh.md)
 - [ChatExcel](https://github.com/wshzd/AIGC_Tools/blob/main/docs/ChatExcel_zh.md)
 - ChatGPT
